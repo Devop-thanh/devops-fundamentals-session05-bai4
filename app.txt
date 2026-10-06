@@ -1,2 +1,4 @@
 # Hotfix Gitflow Demo
 New feature đang phát triển
+Security patch: fix user data exposure
+
