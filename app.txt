@@ -1,1 +1,2 @@
 # Hotfix Gitflow Demo
+Security patch: fix user data exposure
